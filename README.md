@@ -37,8 +37,8 @@ Both scripts require Python 3.x and the `Pillow` (PIL) library for screen captur
 
 1. **Clone or download this repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/alok-kumar8765/screenshot_tool
+   cd screenshot_tool
    ```
 
 2. **Install required dependencies:**
